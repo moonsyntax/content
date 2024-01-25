@@ -7,8 +7,6 @@ tags:
 image: https://github.com/moonsyntax/content/assets/8281782/80c2bc1c-3290-4728-a755-2339dcb7da3d
 ---
 
-![recovve2](https://github.com/moonsyntax/content/assets/8281782/80c2bc1c-3290-4728-a755-2339dcb7da3d)
-
 Our team of experts at Moon Syntax recently recovered 2.1 BTC (Bitcoin) from a severely damaged OnePlus 7T device. This shows our commitment to excellence and our proficiency in cryptocurrency recovery services.
 
 Our client relied on the Samurai wallet on Android, known for its top-notch security. The client’s Android device suffered a complete breakdown, leaving both the display and motherboard unusable. They remembered 12 out of the 13 words of their wallet passphrase, with the elusive 13th word being the “BIP passphrase.”
