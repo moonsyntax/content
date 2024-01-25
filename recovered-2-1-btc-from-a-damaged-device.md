@@ -4,8 +4,10 @@ description: 'Our client relied on the Samurai wallet on Android, known for its 
 tags:
           - bitcoin
           - recovery
-image: https://miro.medium.com/v2/resize:fit:1100/format:webp/1*gqMYLAZzT1L_3Rm2opdoPw.png
+image: https://github.com/moonsyntax/content/assets/8281782/80c2bc1c-3290-4728-a755-2339dcb7da3d
 ---
+
+![recovve2](https://github.com/moonsyntax/content/assets/8281782/80c2bc1c-3290-4728-a755-2339dcb7da3d)
 
 Our team of experts at Moon Syntax recently recovered 2.1 BTC (Bitcoin) from a severely damaged OnePlus 7T device. This shows our commitment to excellence and our proficiency in cryptocurrency recovery services.
 
@@ -13,8 +15,8 @@ Our client relied on the Samurai wallet on Android, known for its top-notch secu
 
 Realizing the gravity of the situation, the client tried recovering their funds using alternative wallets like Electrum, employing the known 12 words. Unfortunately, these attempts were futile, as the missing 13th word was essential for accessing the funds.
 
-![image](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*J-nh_uGLRwL_aQnAsDg1Wg.png)
-
+![1_J-nh_uGLRwL_aQnAsDg1Wg](https://github.com/moonsyntax/content/assets/8281782/f43b0cad-5922-4cff-a32b-00fc146db495)
+ 
 When the client approached us for assistance, they couldn’t provide a definitive answer regarding the length of the 13th word. Uncertainty surrounded whether it exceeded 12 letters or not. This posed a significant challenge to our recovery efforts. To address this ambiguity, we devised a two-pronged strategy.
 
 ## Approach
