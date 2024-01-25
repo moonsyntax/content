@@ -5,7 +5,7 @@ tags:
           - bitcoin
           - wallet
           - recover
-image: https://miro.medium.com/v2/resize:fit:1100/format:webp/1*tCKdBGjPgLv8Y27MSOI18Q.png
+image: https://github.com/moonsyntax/content/assets/8281782/5569ee6a-15d1-410d-9672-f1b9c6b4618f
 ---
 
 We recently embarked on a captivating journey to reclaim 42.67 BTC ( Approx. 1.8 Million US Dollar ) for a client ensnared in a complex situation. The challenge revolved around a disordered seed with 24 words, and 8 were missing. Leveraging a combination of brute force and sophisticated seed matching, our team decoded the puzzle, recovering the lost cryptocurrency.
@@ -26,7 +26,8 @@ Moon Syntax seamlessly integrated the brute force method into the recovery proce
 
 ## Result
 
-![image](https://miro.medium.com/v2/resize:fit:720/format:webp/0*rF_t7-4wqzE9PcxP.png)
+![0_rF_t7-4wqzE9PcxP](https://github.com/moonsyntax/content/assets/8281782/5e3ad6e0-7d88-4117-95e9-b3e624c073da)
+
 
 In a surprising twist, Moon Syntax not only recovered the damaged seed but also successfully brute-forced the missing words. The client’s cryptocurrency, totaling 42.67 BTC, was restored, showcasing our dedication to excellence in cryptocurrency recovery.
 
