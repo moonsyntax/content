@@ -5,7 +5,7 @@ tags:
   - crypto
   - blockchain
   - scams
-image: https://github.com/moonsyntax/content/assets/8281782/5569ee6a-15d1-410d-9672-f1b9c6b4618f
+image: https://github.com/moonsyntax/content/assets/8281782/b5bba795-eecd-4ed8-a48b-242e9c18b1ae
 ---
 
 The crypto world can be a wild and unpredictable place, filled with opportunities and pitfalls. It’s a realm where moonshots can become a reality, but it’s also where scams and rug pulls lurk in the shadows. In this ever-changing landscape, you need a trustworthy guide, and that’s exactly what we offer.
