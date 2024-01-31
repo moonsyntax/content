@@ -22,15 +22,25 @@ Our goal is simple: to offer you a reliable, free, and accessible resource. We c
 
 ## What We Do
 
-- **Moon syntax Protection:** Whether you’re an experienced trader, a VC, or just dipping your toes into crypto, we’re your vigilant guardians. Have a crypto project in mind that you’re curious about? Request an analysis from our Moon syntax team, and we’ll investigate it for you.
+### Moon syntax Protection:
 
-- **Daily Cosmic Investigations:** In addition to user requests, we embark on daily missions to investigate random crypto projects. This ensures that we’re not just reacting to threats but actively seeking out potential scams in the vast crypto galaxy.
+ Whether you’re an experienced trader, a VC, or just dipping your toes into crypto, we’re your vigilant guardians. Have a crypto project in mind that you’re curious about? Request an analysis from our Moon syntax team, and we’ll investigate it for you.
 
-- **Transparency:** Our analyses are based on facts, research, and unbiased judgment. We leave no stone unturned when deciphering crypto projects, and our findings are presented transparently. Our reports reveal the mysteries of the projects we investigate, exposing potential red flags and areas of concern.
+### Daily Cosmic Investigations:
 
-- **Education and Empowerment:** Our goal isn’t just to protect you from scams but also to empower you with knowledge. We want you to become a savvy crypto explorer who can make informed decisions independently.
+ In addition to user requests, we embark on daily missions to investigate random crypto projects. This ensures that we’re not just reacting to threats but actively seeking out potential scams in the vast crypto galaxy.
 
-- **Community Constellation:** We’re not just a team; we’re a constellation of crypto enthusiasts. We encourage active participation and cosmic discussions. Share your insights, questions, or concerns about a project with us and fellow stargazers.
+### Transparency:
+
+ Our analyses are based on facts, research, and unbiased judgment. We leave no stone unturned when deciphering crypto projects, and our findings are presented transparently. Our reports reveal the mysteries of the projects we investigate, exposing potential red flags and areas of concern.
+
+### Education and Empowerment:
+
+ Our goal isn’t just to protect you from scams but also to empower you with knowledge. We want you to become a savvy crypto explorer who can make informed decisions independently.
+
+### Community Constellation:
+ We’re not just a team; we’re a constellation of crypto enthusiasts. We encourage active participation and cosmic discussions. Share your insights, questions, or concerns about a project with us and fellow stargazers.
+ 
 
 In a universe where trust can be hard to find, Moon syntax is your celestial companion in the crypto space. Join us as we decode the secrets of crypto projects and safeguard the interests of the crypto community. Together, we can make the crypto world a safer, more transparent, and more thrilling place.
 
